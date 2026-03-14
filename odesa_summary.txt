@@ -1,1 +1,0 @@
-Ivanov;Ivan;Ivanovych;Male;Ukr;180;80;1990;10;12;093;65000;UA;Odesa;Odesa;Odesa;Derib;1;10;111;222
