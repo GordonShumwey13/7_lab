@@ -1,2 +1,0 @@
-Ivanov;Ivan;Ivanovych;Male;Ukr;180;80;1990;10;12;093;65000;UA;Odesa;Odesa;Odesa;Derib;1;10;111;222
-Petrenko;Olga;Ihorivna;Female;Ukr;165;55;1995;05;20;067;01001;UA;Kyiv;Kyiv;Kyiv;Khresh;5;2;333;444
